@@ -1,0 +1,12 @@
+website: http://receipe.comli.com/
+
+login:
+	admin:
+		username: abc 
+		password: 12345
+	user1:
+		username: xyz
+		password: 12345
+	user2:
+		username: lmn
+		password: 12345
